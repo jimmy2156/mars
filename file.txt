@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 world
+=======
+amyfile2
+Hello
+>>>>>>> 8120235789eef0d634401a878397f986681fe3a1
+hello owrld
+
